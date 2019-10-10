@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "366582959929",
+    "firebase_url": "https://x-emailbot-01.firebaseio.com",
+    "project_id": "x-emailbot-01",
+    "storage_bucket": "x-emailbot-01.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:366582959929:android:a2482d59bb8812545322e8",
+        "android_client_info": {
+          "package_name": "com.oneconnectft.emailpush"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "366582959929-3mrp2mj7l9ub8ho1qmpdl7990p5ba927.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAH089kt4Ez8f6n7D7dRtzvX-8CtM0Kd2I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "366582959929-3mrp2mj7l9ub8ho1qmpdl7990p5ba927.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
